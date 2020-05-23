@@ -6,6 +6,7 @@ Rhosys protects data with encryption in transit and at rest, providing organizat
 ## Privacy
 
 Data privacy is a human right:
+* [Authress Privacy Policy](https://authress.io/app/#privacy)
 * [Teaminator Privacy Policy](https://app.teaminator.io/#privacy)
 
 ### Data Protection Officers
